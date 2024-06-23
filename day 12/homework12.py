@@ -19,4 +19,14 @@ while variable > 0 :
         hello=hello-1
 
 
+        Age=input('enter your age')
+        if int(Age)>0:
+            print('true' )
+        else:
+            print('false')
+
+
+
+
+           
                                  
