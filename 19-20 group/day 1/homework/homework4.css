@@ -1,0 +1,11 @@
+#parent{
+    width: 1000px;
+    height: 1000px;
+    background-color: blueviolet;
+
+}
+
+img{
+    width: 25%;
+    height: 25%;
+}
