@@ -1,0 +1,12 @@
+#parent{
+  
+    height: 700px;
+    width: 1000px;
+    background-color: navy;
+}
+#child{
+
+   height: 50%;
+   width: 50%;
+   background-color: yellow;
+}

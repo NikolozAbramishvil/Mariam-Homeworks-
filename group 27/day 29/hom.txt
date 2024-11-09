@@ -1,5 +1,0 @@
-inline elements-არის ელემენტები რომლებიც იკავებენ იმდენ ადგილს რამდენიც სჭირდებათ 
-block elements-აირის ელემენტები რომლებიც იკავებენ იმდენ ადგილს რამდენის სასუალებაც აქვთ სიგანეში.
-
-inline elements-<a>: Hyperlinks,<span>,<strong>,<em>,<img>,<button>
-block elements-<div>,<p>,<h1-h6>,<ul>,<ol>,<table> and more.
