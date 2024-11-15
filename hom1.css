@@ -1,0 +1,56 @@
+#M1:link{
+    color: blue;
+    font-size: 300px;
+
+}
+
+#M1:visited{
+    color: purple;
+}
+
+#M2:link{
+    color:brown;
+    background-color: blanchedalmond;
+    font-size: 300px;
+}
+
+#M2:hover{
+    color:aqua;
+    background-color: darkblue;
+    font-size: 300px;
+}
+
+#M3:link{
+    font-size: 200px;
+    background-color: chartreuse;
+    color: yellow;
+}
+
+#M3:active{
+    font-size: 500px;
+    background-color: darkcyan;
+    color: crimson;
+}
+
+#M4:link{
+    font-size: 300px;
+    color:black
+}
+
+#M4:hover{
+    font-size: 300px;
+    color: darkgrey;
+   
+}
+
+#M5:link{
+    text-decoration: none;
+    font-size: 300px;
+   
+}
+
+#M5:hover{
+    text-decoration: underline;
+    font-size: 300px;
+    color:darkgreen
+}
