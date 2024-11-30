@@ -1,0 +1,8 @@
+table,tr,td,th{
+    border:1px solid blue;
+
+}
+tr:hover:nth-child(even){
+    background-color:pink;
+    color:green;
+}
