@@ -1,0 +1,27 @@
+.li1{
+    list-style-type: lower-greek;
+}
+.li2{
+    list-style-type: armenian;
+}
+.li3{
+    list-style-type: disc;
+}
+.li4{
+    list-style-type:lower-latin
+}
+
+.li5{
+    list-style-type: square;
+}
+.li6{
+    list-style-type: decimal;
+
+}
+
+.li7{
+    list-style-type: georgian;
+}
+.li8{
+    list-style-type: none;
+}
